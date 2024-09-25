@@ -23,9 +23,8 @@
 // Suggestion on how to solve the problem using the following steps:
 
 // 1. Create a function that generates a card for a review.
-// 2. Create a function that groups the reviews by category.
-// 3. Create a function that generates a card for all reviews.
-// 4. Add the cards to the body of the HTML document.
+// 2. Create a function that generates cards for all reviews.
+// 3. Add the cards to the body of the HTML document.
 
 // Hint: You can use the map() method to generate a card for each review and the join() method to join the cards into a single string. You can use the reduce() method to group the reviews by category.
 //       Actually, most of the concept are the same as the previous exercise, but this time we are using Bootstrap 5 to style the cards.
